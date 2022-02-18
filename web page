@@ -1,0 +1,15 @@
+parse html 
+parse css
+render tree
+layout
+painting
+
+Document Object Model (DOM)
+CSS Object Model (CSSOM)
+Render Tree
+Rendering Sequence
+Layout operation
+Paint operation
+Compositing operation
+Browser engines
+Rendering Process in browsers
